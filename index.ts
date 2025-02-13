@@ -1,5 +1,6 @@
 import fs from 'fs'
 import path from 'path'
+import pkg from '../../../package.json' // Change this path
 
 
     interface LicenseEntry {
